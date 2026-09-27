@@ -1,85 +1,53 @@
-# Prompt Testing and Evaluation
-
-## Project: Bean & Bloom Café
-
-### Objective
-Evaluate how different prompt structures influence
-AI-generated advertising content.
-
 ---
 
-## Test 1: Basic Prompt
+# Additional Prompt Testing and Evaluation
 
-### Prompt
-Write an advertisement for cold coffee at Bean & Bloom Café.
+## Test Case 1: UGC Video Script
 
-### Output
-Enjoy a refreshing cold coffee at Bean & Bloom Café.
-Take a break and discover your favorite sip.
+**Input:** Generate a 30-second UGC-style video script promoting cold coffee at Bean & Bloom Café.
 
-### Observation
-The output is simple but lacks a specific audience
-and creative direction.
+**Expected Result:** A conversational script with a hook, product introduction, personal-style experience, and call to action.
 
----
+**Evaluation Criteria:**
+- Does the script sound natural and conversational?
+- Is the product clearly presented?
+- Does it include a clear call to action?
 
-## Test 2: Audience-Focused Prompt
+## Test Case 2: Attention-Grabbing Hooks
 
-### Prompt
-Act as a creative advertising copywriter.
+**Input:** Generate 10 engaging hooks for a cold coffee advertisement.
 
-Create an advertisement for Bean & Bloom Café's cold coffee.
+**Expected Result:** Short, attention-grabbing opening lines suitable for social media videos.
 
-Target Audience: Students.
+**Evaluation Criteria:**
+- Are the hooks concise?
+- Do they attract attention?
+- Are they relevant to the product?
 
-Tone: Friendly and relatable.
+## Test Case 3: Social Media Captions
 
-Highlight the idea of taking a break from studying.
+**Input:** Generate captions for Instagram, Facebook, and YouTube Shorts promoting cold coffee.
 
-Include a hook, short script, and CTA.
+**Expected Result:** Platform-appropriate captions with engaging language and a call to action.
 
-### Output
-Hook: Your study break just got more refreshing.
+**Evaluation Criteria:**
+- Are the captions appropriate for each platform?
+- Are they easy to understand?
+- Do they encourage engagement?
 
-Script:
-Been studying for hours? Take a little break,
-grab a cold coffee, and enjoy a moment for yourself.
+## Test Case 4: Ad Variations
 
-CTA: Visit Bean & Bloom Café.
+**Input:** Create three cold coffee ad variations using different approaches: emotional appeal, product-focused messaging, and lifestyle appeal.
 
-### Observation
-The output is more relevant to students and includes
-a clear advertising structure.
+**Expected Result:** Three distinct ad concepts with different messaging styles.
 
----
+**Evaluation Criteria:**
+- Are the variations clearly differentiated?
+- Does each focus on a distinct approach?
+- Is the brand tone consistent?
 
-## Test 3: Platform-Specific Prompt
+## Overall Evaluation
 
-### Prompt
-Act as a social media content creator.
+The prompts are designed to generate engaging UGC-style advertising content for social media.
 
-Write an Instagram caption promoting cold coffee
-at Bean & Bloom Café.
-
-Use a friendly tone, include a CTA, and add
-relevant hashtags.
-
-### Output
-Study sessions, busy days, and everything in between.
-Sometimes, all you need is a little coffee break.
-
-Drop by Bean & Bloom Café and find your favorite sip!
-
-#BeanAndBloom #ColdCoffee #CoffeeBreak #CafeVibes
-
-### Observation
-The output is suitable for a social media post
-and includes a clear call to action.
-
----
-
-## Conclusion
-
-The examples illustrate how adding audience details,
-tone, and platform requirements can help generate
-more focused advertising content.
+**Note:** These are test cases and evaluation criteria. Actual prompt outputs should be generated and reviewed before recording final test results.
